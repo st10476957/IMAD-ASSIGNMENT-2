@@ -32,4 +32,6 @@ Score is calculated based on correct answers.
 ![image alt](https://github.com/st10476957/IMAD-ASSIGNMENT-2/blob/master/imad2/qr.png)
 ![image alt](https://github.com/st10476957/IMAD-ASSIGNMENT-2/blob/master/imad2/qm.png)
 
+YOUTUBE VIDEO LINK: https://youtu.be/eHBmz8HkShQ
+
 
